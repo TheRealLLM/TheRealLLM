@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Lucas
 
-<!--
-**TheRealLLM/TheRealLLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em desenvolvimento de software  
+📍 Buscando estágio em TI / Desenvolvimento  
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias
+- Python
+- Git & GitHub
+- Lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projetos
+Confira meus repositórios abaixo 👇  
+Estou sempre estudando e evoluindo.
+
+🔗 LinkedIn: https://www.linkedin.com/in/lucaslmartins14
