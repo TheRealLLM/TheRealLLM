@@ -10,6 +10,7 @@ Git & GitHub
 Lógica de programação  
 Infraestrutura de TI  
 Redes  
+Monitoramento de Sistemas  
 
 ### Projetos
 Confira meus repositórios abaixo.  
